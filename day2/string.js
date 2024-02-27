@@ -60,5 +60,6 @@ let fullName = first_name.concat(last_name);
 let myBaby = "Aisha Omolola Ismail";
 let slipt = myBaby.split(" ");
 
-console.log(slipt)
+// console.log(slipt)
+
 
